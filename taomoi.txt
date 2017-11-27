@@ -1,10 +1,4 @@
 nguyen
 cong
 thinh
-<<<<<<< HEAD
-=======
-
-nguyen
-
-ssssssss
->>>>>>> thai
+ttttttttttt
